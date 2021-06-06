@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <item
+        android:id="@+id/mnxAgrgar"
+        android:icon="@drawable/agregar"
+        android:title="@string/Agregar" />
+
+    <item
+        android:id="@+id/mnxModificar"
+        android:icon="@drawable/edit"
+        android:title="@string/Modificar" />
+
+
+    <item
+        android:id="@+id/mnxEliminar"
+        android:icon="@drawable/eliminar"
+        android:title="@string/Eliminar" />
+
+
+</menu>

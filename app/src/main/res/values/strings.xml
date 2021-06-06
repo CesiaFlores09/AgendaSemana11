@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AgendaSemana11</string>
+    <string name="codigo">Codigo</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Direccion">Direccion</string>
+    <string name="Telefono">Telefono</string>
+    <string name="Dui">DUI</string>
+    <string name="Guardar">Guardar</string>
+    <string name="Agregar">Agregar</string>
+    <string name="Modificar">Modificar</string>
+    <string name="Eliminar">Eliminar</string>
+
+</resources>
